@@ -1,6 +1,5 @@
 package org.example.bean;
 
-import java.io.IOException;
 import java.util.List;
 
 public class Employee {
